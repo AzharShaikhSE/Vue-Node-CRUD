@@ -23,3 +23,11 @@ This project consists of two main parts: the Vue.js frontend (`vue_ui`) and the 
 4. Run `node server.js` to start the server.
 
 ### UI Snap Shots
+
+![image](https://github.com/AzharShaikhSE/Vue-Node-CRUD/assets/26828014/7f50345d-c102-4a87-8a9e-4c7f9d5bcf1a)
+
+![image](https://github.com/AzharShaikhSE/Vue-Node-CRUD/assets/26828014/0f1b7d09-e4fb-4f9e-a8d7-8591e9311b7e)
+
+![image](https://github.com/AzharShaikhSE/Vue-Node-CRUD/assets/26828014/608c40f0-a616-4e86-a0c2-9ae402100479)
+
+![image](https://github.com/AzharShaikhSE/Vue-Node-CRUD/assets/26828014/595b72e5-2da1-45cc-9823-66fb3337bbe0)
