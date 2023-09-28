@@ -1,25 +1,24 @@
-# Project Structure and Instructions
+# vue_ui
 
-This project consists of two main parts: the Vue.js frontend (`vue_ui`) and the Node.js backend (`nodejs_backend`).
+## Project setup
+```
+npm install
+```
 
-## Folder Structure
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-- `vue_ui`: This folder contains all the Vue.js frontend code.
-- `nodejs_backend`: This folder contains all the Node.js and MongoDB backend code.
+### Compiles and minifies for production
+```
+npm run build
+```
 
-## Running the Project
+### Lints and fixes files
+```
+npm run lint
+```
 
-### Vue.js Frontend
-
-1. Navigate to the `vue_ui` directory.
-2. Run `npm install` to install all the necessary dependencies.
-3. Run `npm run serve` to start the development server.
-
-### Node.js Backend
-
-1. Navigate to the `nodejs_backend` directory.
-2. Run `npm install` to install all the necessary dependencies.
-3. Start your MongoDB server locally. (I am using MongoDB 5.0 update your mongodb driver accordingly)
-4. Run `node server.js` to start the server.
-
-### UI Snap Shots
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
