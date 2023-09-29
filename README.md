@@ -19,7 +19,7 @@ This project consists of two main parts: the Vue.js frontend (`vue_ui`) and the 
 
 1. Navigate to the `nodejs_backend` directory.
 2. Run `npm install` to install all the necessary dependencies.
-3. Start your MongoDB server locally. (I am using MongoDB 5.0 update your mongodb driver accordingly)
+3. Start your MongoDB server locally. (I am using MongoDB 4 update your mongodb driver accordingly)
 4. Run `node server.js` to start the server.
 
 ### UI Snap Shots
